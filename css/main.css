@@ -425,7 +425,7 @@ header .badges .badge {
     z-index: 0;
 }
 
-.notice .promotion .swiper-pagination .swiper-pagination-bulllet {
+.notice .promotion .swiper-pagination .swiper-pagination-bullet {
     background-color: transparent;
     background-image: url("../images/promotion_slide_pager.png");
     width: 12px;
